@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">MPI.ID</string>
+    <string name="title_activity_main">MPI.ID</string>
+    <string name="package_name">id.merahputihindonesia.mpi</string>
+    <string name="custom_url_scheme">id.merahputihindonesia.mpi</string>
+</resources>

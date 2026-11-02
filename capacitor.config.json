@@ -1,0 +1,8 @@
+{
+  "appId": "id.merahputihindonesia.mpi",
+  "appName": "MPI.ID",
+  "webDir": "www",
+  "server": {
+    "androidScheme": "https"
+  }
+}
